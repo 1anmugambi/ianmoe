@@ -27,6 +27,7 @@ h1{
 }
 .navbar li{
     float:left
+<<<<<<< HEAD
 }
 
 .img-cyc{
@@ -35,4 +36,6 @@ h1{
 
 .img-clos{
     width: 650px;
+=======
+>>>>>>> d4d59f3f1c589d4cca0b977d9d688ba94cb0947b
 }
